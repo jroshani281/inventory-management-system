@@ -1,21 +1,21 @@
-# 📦 Inventory Management System
+#  Inventory Management System
 
 A desktop-based **Inventory Management System** built with **Python**, **Tkinter**, and **SQLite**. Designed for small retail or warehouse businesses to manage employees, sales, billing, and inventory through a clean, role-based GUI.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔐 **Role-Based Login** — Separate access for **Admin** and **Employee** accounts
-- 📝 **Employee Registration** — Add new staff with validated email & password
-- 🧾 **Billing System** — Generate and save customer invoices
-- 📊 **Sales Tracking** — Search and view past invoices by invoice number
-- 📈 **Admin Dashboard** — Centralized control panel for managing inventory & employees
-- 💾 **SQLite Database** — Lightweight, file-based data storage
+-  **Role-Based Login** — Separate access for **Admin** and **Employee** accounts
+-  **Employee Registration** — Add new staff with validated email & password
+-  **Billing System** — Generate and save customer invoices
+-  **Sales Tracking** — Search and view past invoices by invoice number
+-  **Admin Dashboard** — Centralized control panel for managing inventory & employees
+-  **SQLite Database** — Lightweight, file-based data storage
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component   | Technology |
 |-------------|------------|
@@ -26,7 +26,7 @@ A desktop-based **Inventory Management System** built with **Python**, **Tkinter
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Inventory_Management_System/
@@ -45,7 +45,7 @@ Inventory_Management_System/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.10+
@@ -75,7 +75,7 @@ python login.py
 
 ---
 
-## 👤 User Roles
+##  User Roles
 
 | Role     | Access |
 |----------|--------|
@@ -87,18 +87,18 @@ python login.py
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available for educational use.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **[jroshani281](https://github.com/jroshani281)**
